@@ -10,15 +10,20 @@
 
 </div><br>
 
+## 
+
+:warning: Il s'agit d'un dépôt de travail... **N'essayez pas de le télécharger**, et encore moins de l'installer, car au mieux il ne fonctionnera pas.
+
+## 
 
 #### Dépôt
 
-[![Created Badge](https://badges.pufler.dev/created/GwendolyneFreddy/Diamant-Eternel?style=plastic&label=cr%C3%A9ation)](https://badges.pufler.dev)
-![GitHub repo size](https://img.shields.io/github/repo-size/GwendolyneFreddy/Diamant-Eternel?style=plastic&label=taille)
-[![Visits Badge](https://badges.pufler.dev/visits/GwendolyneFreddy/Diamant-Eternel?color=cyan&style=plastic&label=visites)](https://badges.pufler.dev) 
+[![Created Badge](https://badges.pufler.dev/created/GwendolyneFreddy/Patch-correctif-pour-BG2-et-BG2EE?style=plastic&label=cr%C3%A9ation)](https://badges.pufler.dev)
+![GitHub repo size](https://img.shields.io/github/repo-size/GwendolyneFreddy/Patch-correctif-pour-BG2-et-BG2EE?style=plastic&label=taille)
+[![Visits Badge](https://badges.pufler.dev/visits/GwendolyneFreddy/Patch-correctif-pour-BG2-et-BG2EE?color=cyan&style=plastic&label=visites)](https://badges.pufler.dev) 
 ![Maintenance](https://img.shields.io/static/v1?label=maintenu%20%3F&message=oui&color=greenlight&style=plastic)
 
-![GitHub contributors](https://img.shields.io/github/contributors/GwendolyneFreddy/Diamant-Eternel?color=blueviolet&label=contributeurs&style=plastic) [![Contributors Display](https://badges.pufler.dev/contributors/GwendolyneFreddy/Diamant-Eternel?size=30&padding=5&bots=true)](https://badges.pufler.dev)
+![GitHub contributors](https://img.shields.io/github/contributors/GwendolyneFreddy/Patch-correctif-pour-BG2-et-BG2EE?color=blueviolet&label=contributeurs&style=plastic) [![Contributors Display](https://badges.pufler.dev/contributors/GwendolyneFreddy/Patch-correctif-pour-BG2-et-BG2EE?size=30&padding=5&bots=true)](https://badges.pufler.dev)
 
 
 #### Activité
