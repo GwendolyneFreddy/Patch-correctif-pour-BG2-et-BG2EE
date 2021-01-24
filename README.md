@@ -1,7 +1,7 @@
-![Latest Release](https://img.shields.io/static/v1?label=version&message=v0.0.1%20alpha&color=gold)
-![GitHub (Pre-)Release Date](https://img.shields.io/github/release-date-pre/GwendolyneFreddy/LCC-Readme?color=gold&label=publi%C3%A9%20le)
+![Latest Release](https://img.shields.io/github/v/release/gwendolynefreddy/Patch-correctif-pour-BG2-et-BG2EE?include_prereleases&color=gold&label=version)<a name="top" id="top">
+![GitHub (Pre-)Release Date](https://img.shields.io/github/release-date-pre/GwendolyneFreddy/Patch-correctif-pour-BG2-et-BG2EE?color=gold&label=publi%C3%A9%20le)
 ![Platform](https://img.shields.io/static/v1?label=platform&message=windows%20%7C%20Mac%20%7C%20linux&color=informational)
-![Language](https://img.shields.io/static/v1?label=language&message=English%20%7C%20French&color=limegreen)
+![Language](https://img.shields.io/static/v1?label=langue&message=Fran%C3%A7ais&color=limegreen)
 
 
 <div align="center"><h1>Patch correctif pour BG2 et BG2EE (WIP)</h1>
@@ -22,16 +22,16 @@
 
 
 #### Activité
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/GwendolyneFreddy?style=plastic&label=commits%20du%20mois)](https://badges.pufler.dev) ![GitHub commits since latest release (by date including pre-releases)](https://img.shields.io/github/commits-since/GwendolyneFreddy/LCC-Readme/latest/master?include_prereleases&style=plastic) ![GitHub last commit](https://img.shields.io/github/last-commit/GwendolyneFreddy/LCC-Readme?color=cyan&style=plastic&label=dernier%20commit)
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/GwendolyneFreddy?style=plastic&label=commits%20du%20mois)](https://badges.pufler.dev) ![GitHub commits since latest release (by date including pre-releases)](https://img.shields.io/github/commits-since/GwendolyneFreddy/Patch-correctif-pour-BG2-et-BG2EE/latest/master?include_prereleases&style=plastic) ![GitHub last commit](https://img.shields.io/github/last-commit/GwendolyneFreddy/Patch-correctif-pour-BG2-et-BG2EE?color=cyan&style=plastic&label=dernier%20commit)
 
-![GitHub issues](https://img.shields.io/github/issues/GwendolyneFreddy/LCC-Readme?color=red&label=probl%C3%A8mes&style=plastic)
-![GitHub closed issues](https://img.shields.io/github/issues-closed/GwendolyneFreddy/LCC-Readme?color=blue&label=probl%C3%A8mes&style=plastic)
-![GitHub open issues](https://img.shields.io/github/issues-raw/GwendolyneFreddy/LCC-Readme?color=red&label=probl%C3%A8mes%20ouverts&style=plastic)
-![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/GwendolyneFreddy/LCC-Readme?color=blue&label=probl%C3%A8mes%20ferm%C3%A9s&style=plastic)
+![GitHub issues](https://img.shields.io/github/issues/GwendolyneFreddy/Patch-correctif-pour-BG2-et-BG2EE?color=red&label=probl%C3%A8mes&style=plastic)
+![GitHub closed issues](https://img.shields.io/github/issues-closed/GwendolyneFreddy/Patch-correctif-pour-BG2-et-BG2EE?color=blue&label=probl%C3%A8mes&style=plastic)
+![GitHub open issues](https://img.shields.io/github/issues-raw/GwendolyneFreddy/Patch-correctif-pour-BG2-et-BG2EE?color=red&label=probl%C3%A8mes%20ouverts&style=plastic)
+![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/GwendolyneFreddy/Patch-correctif-pour-BG2-et-BG2EE?color=blue&label=probl%C3%A8mes%20ferm%C3%A9s&style=plastic)
 
-![GitHub pull requests](https://img.shields.io/github/issues-pr/GwendolyneFreddy/LCC-Readme?style=plastic)
-![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/GwendolyneFreddy/LCC-Readme?color=blue&style=plastic)
-![GitHub open pull requests](https://img.shields.io/github/issues-pr-raw/GwendolyneFreddy/LCC-Readme?label=pull%20requests%20ouvertes&style=plastic)
-![GitHub closed pull requests](https://img.shields.io/github/issues-pr-raw/GwendolyneFreddy/LCC-Readme?color=blue&label=pull%20requests%20ferm%C3%A9es&style=plastic)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/GwendolyneFreddy/Patch-correctif-pour-BG2-et-BG2EE?style=plastic)
+![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/GwendolyneFreddy/Patch-correctif-pour-BG2-et-BG2EE?color=blue&style=plastic)
+![GitHub open pull requests](https://img.shields.io/github/issues-pr-raw/GwendolyneFreddy/Patch-correctif-pour-BG2-et-BG2EE?label=pull%20requests%20ouvertes&style=plastic)
+![GitHub closed pull requests](https://img.shields.io/github/issues-pr-raw/GwendolyneFreddy/Patch-correctif-pour-BG2-et-BG2EE?color=blue&label=pull%20requests%20ferm%C3%A9es&style=plastic)
 
 
