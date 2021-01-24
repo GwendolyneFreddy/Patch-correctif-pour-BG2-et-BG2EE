@@ -1,0 +1,1 @@
+# Patch-correctif-pour-BG2-et-BG2EE
