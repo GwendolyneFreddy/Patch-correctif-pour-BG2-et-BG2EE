@@ -27,7 +27,7 @@
 
 
 #### Activité
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/GwendolyneFreddy?style=plastic&label=commits%20du%20mois)](https://badges.pufler.dev) ![GitHub commits since latest release (by date including pre-releases)](https://img.shields.io/github/commits-since/GwendolyneFreddy/Patch-correctif-pour-BG2-et-BG2EE/latest/master?include_prereleases&style=plastic) ![GitHub last commit](https://img.shields.io/github/last-commit/GwendolyneFreddy/Patch-correctif-pour-BG2-et-BG2EE?color=cyan&style=plastic&label=dernier%20commit)
+![GitHub commits since latest release (by date including pre-releases)](https://img.shields.io/github/commits-since/GwendolyneFreddy/Patch-correctif-pour-BG2-et-BG2EE/latest/master?include_prereleases&style=plastic) ![GitHub last commit](https://img.shields.io/github/last-commit/GwendolyneFreddy/Patch-correctif-pour-BG2-et-BG2EE?color=cyan&style=plastic&label=dernier%20commit)
 
 ![GitHub issues](https://img.shields.io/github/issues/GwendolyneFreddy/Patch-correctif-pour-BG2-et-BG2EE?color=red&label=probl%C3%A8mes&style=plastic)
 ![GitHub closed issues](https://img.shields.io/github/issues-closed/GwendolyneFreddy/Patch-correctif-pour-BG2-et-BG2EE?color=blue&label=probl%C3%A8mes&style=plastic)
